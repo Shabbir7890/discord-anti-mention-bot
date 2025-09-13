@@ -13,7 +13,7 @@ A Discord.js v14 bot to protect VIP roles from being pinged.
 
 1. Clone this repo  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/anti-mention-guard-bot.git
+   git clone https://github.com/Shabbir7890/discord-anti-mention-bot.git
    cd anti-mention-guard-bot
    ```
 
